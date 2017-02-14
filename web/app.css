@@ -1,0 +1,25 @@
+.myTitle {
+  color: #abcabc;
+}
+
+.myParagraph {
+  color: #cdcdcd;
+}
+
+.myButton {
+  background-color: #f45c42;
+  border-style: double;
+  border-color: #910000;
+  color: #fafafa;
+}
+
+.myRectangle {
+  background-color: #f45c42;
+  border-style: double;
+  border-color: #910000;
+  color: #fafafa;
+  height: 50px;
+  width: 200px;
+  text-align: center;
+  position: relative;
+}
